@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e">
+    <diagram id="MAKC2NO_1k_ebbK19W-r" name="Страница 1">
+        <mxGraphModel dx="931" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="СТАРТ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="30" width="150" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="string [ ] s;&lt;br&gt;string [ ] s2;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="315" y="140" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="240" width="170" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
